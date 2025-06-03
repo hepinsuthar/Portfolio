@@ -2,11 +2,11 @@
 
 Welcome to my personal portfolio! This website showcases my skills, projects, education, and certifications as a **B.Tech Information Technology** student with a strong passion for **web development**.
 
-![Portfolio Preview](./52355.jpg)
+![Portfolio Preview](./images/Preview.png)
 
 ## 🚀 Live Demo
 
-👉 [Visit My Portfolio](https://hepinsuthar.github.io/portfolio/)
+👉 [Visit My Portfolio](https://hepinsuthar.github.io/Portfolio/)
 
 ---
 
