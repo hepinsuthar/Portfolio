@@ -43,7 +43,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ed
 ├── images/                  # Image assets
 │   ├── about.jpg
 │   ├── hello.svg
-│   ├── 52355.jpg
+│   ├── Preview.jpg
 │   ├── sankalchand_patel_college_of_engineering_spce_visnagar_logo.jpg
 │   └── SSPC.PNG
 ```
