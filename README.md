@@ -15,7 +15,7 @@ Welcome to my personal portfolio! This website showcases my skills, projects, ed
 - 🎨 **Modern UI**: Built with **HTML**, **CSS**, and **Tailwind CSS** for a clean and responsive interface.
 - 💼 **Projects Showcase**: Highlights my work with live links and source code access.
 - 📜 **Resume Download**: Visitors can download my resume directly.
-- 📬 **Contact Form**: Simple contact form using **FormSubmit**.
+- 📬 **Contact Form**: Simple contact form powered by Web3Forms, enabling direct email delivery without any backend code.
 - 📱 **Responsive Design**: Fully responsive layout for all devices.
 - 🌐 **Social Media Integration**: Linked profiles for connection.
 - 🎥 **AOS Animations**: Smooth scroll-based animations using Animate On Scroll.
